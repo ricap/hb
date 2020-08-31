@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1920px"
+   height="1080px"
+   viewBox="0 0 1920 1080"
+   version="1.1"
+   id="SVGRoot"
+   inkscape:version="0.92.4 (e05b578f1, 2019-02-26, custom)"
+   sodipodi:docname="treca_drawing.svg">
+  <defs
+     id="defs18" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="960"
+     inkscape:cy="540"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1366"
+     inkscape:window-height="705"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata21">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <ellipse
+       style="fill:#aa8800"
+       id="odjebi"
+       cx="731.42859"
+       cy="477.14285"
+       rx="240"
+       ry="228.57143"
+       inkscape:label="" />
+    <rect
+       style="fill:#aa8800"
+       id="rect35"
+       width="797.14288"
+       height="174.28572"
+       x="337.14285"
+       y="808.57141"
+       inkscape:label="{&quot;attr&quot;:&quot;script&quot;,&quot;list&quot;:[{&quot;evt&quot;:&quot;mousedown&quot;,&quot;param&quot;:&quot;$W.ShowHideTranslate( 'odjebi', 500, 400 );&quot;}]}" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot45"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"><flowRegion
+         id="flowRegion47"><rect
+           id="rect49"
+           width="511.42856"
+           height="68.571426"
+           x="460"
+           y="860" /></flowRegion><flowPara
+         id="flowPara51">upri u me :))</flowPara></flowRoot>  </g>
+</svg>
